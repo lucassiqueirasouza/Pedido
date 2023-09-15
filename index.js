@@ -1,5 +1,5 @@
 function sim() {
-    alert('Aeee kkkk')
+    alert('Aeee brigado ❤️🤙🏻')
 }
 
 function desvia(t) {
