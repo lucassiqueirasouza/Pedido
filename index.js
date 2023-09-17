@@ -6,7 +6,7 @@ function desvia(t) {
     var btn = t;
     btn.style.position = 'absolute';
     btn.style.bottom = geraPosicao(0, 90);
-    btn.style.lef = geraPosicao(0, 90);
+    btn.style.left = geraPosicao(0, 90);
     console.log('opa, desviei...');
 }
 
